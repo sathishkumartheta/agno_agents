@@ -1,0 +1,4 @@
+agno
+uvicorn
+fastapi
+openai
